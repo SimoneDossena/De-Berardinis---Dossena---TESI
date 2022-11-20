@@ -1,7 +1,7 @@
-# De-Berardinis---Dossena---TESI
+# De Berardinis-Dossena TESI
 
 
-<h2> Event log quality-driven PPI assessment in collaborative processes </h2>
+<h2> Title: Event log quality-driven PPI assessment in collaborative processes </h2>
 <h3> Contributors: </h3>
 Alessia De Berardinis : alessia.deberardinis@mail.polimi.it <br>
 Simone Dossena: simone1.dossena@mail.polimi.it <br>
